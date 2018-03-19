@@ -1,2 +1,2 @@
 # Java
-Some Java Codes
+Playing with shapes in java applet
